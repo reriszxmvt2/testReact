@@ -1,0 +1,17 @@
+.card1 {
+      
+     border-style: solid;
+     border-color: cornflowerblue;
+     border-radius: 10px;
+     margin: 20px;
+     padding: 50px;
+}
+.name1 {
+      font-size: 50px;
+      color:crimson;
+      font-weight: bold;
+}
+.adjust1 {
+      display: flex;
+      justify-content: center
+}
